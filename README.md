@@ -1,4 +1,4 @@
-# **Reproductor de Música en React**
+# ** 🎵Reproductor de Música en React🎧**
 
 ![Reproductor de Música](https://img.shields.io/badge/React-18-blue) ![Licencia](https://img.shields.io/badge/Licencia-MIT-green)
 
@@ -6,7 +6,7 @@ Un reproductor de música simple y moderno construido con React. Permite reprodu
 
 ---
 
-## **Características**
+## ** ✅Características**
 
 - **Reproducción de canciones**: Reproduce canciones con controles básicos (play, pause, siguiente, anterior).
 - **Lista de reproducción**: Muestra una lista de canciones disponibles con su portada.
@@ -15,7 +15,7 @@ Un reproductor de música simple y moderno construido con React. Permite reprodu
 
 ---
 
-## **Capturas de Pantalla**
+## **📷Capturas de Pantalla**
 
 ![image](https://github.com/user-attachments/assets/54b901ae-a1ba-46ed-afb8-1b9b5744b224)
 
@@ -27,7 +27,7 @@ Un reproductor de música simple y moderno construido con React. Permite reprodu
 
 ---
 
-## **Tecnologías Utilizadas**
+## **🚀Tecnologías Utilizadas**
 
 - **React**: Biblioteca de JavaScript para construir interfaces de usuario.
 - **HTML5 Audio**: Para la reproducción de archivos de audio.
@@ -36,7 +36,7 @@ Un reproductor de música simple y moderno construido con React. Permite reprodu
 
 ---
 
-## **Instalación**
+## **💻Instalación**
 
 Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local.
 
